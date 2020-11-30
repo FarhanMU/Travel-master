@@ -1,4 +1,4 @@
-# Travel
-Template ke 3 November
+# FE-Article
+Template ke 11 November
 
-![FE-Travel](https://user-images.githubusercontent.com/57338547/98623718-deedc100-233e-11eb-97d9-204af5e40dd8.jpg)
+![FE-Article](https://user-images.githubusercontent.com/57338547/100530369-cd078b80-3223-11eb-8368-7f57dbf04314.jpg)
